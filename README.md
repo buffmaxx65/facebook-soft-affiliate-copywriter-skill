@@ -17,12 +17,6 @@ git clone https://github.com/buffmaxx65/facebook-soft-affiliate-copywriter-skill
   ~/.openclaw/skills/facebook-soft-affiliate-copywriter
 ```
 
-Atau:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/buffmaxx65/facebook-soft-affiliate-copywriter-skill/main/install.sh | bash
-```
-
 ## Cara pakai
 
 ```bash
